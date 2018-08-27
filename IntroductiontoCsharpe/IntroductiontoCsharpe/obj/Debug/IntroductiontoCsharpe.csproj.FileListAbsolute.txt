@@ -1,0 +1,8 @@
+D:\Automation\IntroductiontoCsharpe\IntroductiontoCsharpe\bin\Debug\IntroductiontoCsharpe.exe.config
+D:\Automation\IntroductiontoCsharpe\IntroductiontoCsharpe\bin\Debug\IntroductiontoCsharpe.exe
+D:\Automation\IntroductiontoCsharpe\IntroductiontoCsharpe\bin\Debug\IntroductiontoCsharpe.pdb
+D:\Automation\IntroductiontoCsharpe\IntroductiontoCsharpe\obj\Debug\IntroductiontoCsharpe.csprojResolveAssemblyReference.cache
+D:\Automation\IntroductiontoCsharpe\IntroductiontoCsharpe\obj\Debug\IntroductiontoCsharpe.exe
+D:\Automation\IntroductiontoCsharpe\IntroductiontoCsharpe\obj\Debug\IntroductiontoCsharpe.pdb
+D:\Automation\IntroductiontoCsharpe\IntroductiontoCsharpe\obj\Debug\IntroductiontoCsharpe.Form1.resources
+D:\Automation\IntroductiontoCsharpe\IntroductiontoCsharpe\obj\Debug\IntroductiontoCsharpe.csproj.GenerateResource.Cache

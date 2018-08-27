@@ -1,0 +1,6 @@
+D:\Automation\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+D:\Automation\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+D:\Automation\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+D:\Automation\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+D:\Automation\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+D:\Automation\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
